@@ -1,0 +1,22 @@
+{
+  "name": "metapay-doc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./docs/index.html",
+  "scripts": {
+    "start": "docsify serve ./docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:PowerBtent/metapay-doc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PowerBtent/metapay-doc/issues"
+  },
+  "homepage": "https://github.com/PowerBtent/metapay-doc#readme",
+  "dependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}
