@@ -2,6 +2,7 @@
 * [**准备**](start.md)
 * **接口**   
    * [查询用户资产（自动注册）](api/query_assets.md)
+   * [查询充值地址（自动注册）](api/get_payment_url.md)
    * [创建支付订单](api/create_order.md)
    * [提现](api/withdraw.md)
    * [回调（商户订阅）](api/callback.md)
